@@ -1,7 +1,7 @@
 # Didactic Wumpus World (Meme Version)
 This is a didactic, AI-free implementation of the Wumpus World. It demonstrates [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) and the [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern) design pattern. This was a school project made in 2013.
 
-![Project Setup](https://github.com/nbarbosa/wumpus-design-pattern/raw/master/wumpus-meme-demo.png)
+![Project Setup](https://github.com/nbarbosa/wumpus-design-patterns/raw/master/wumpus-meme-demo.png)
 
 Start by selecting one of the caves in /caves.
 
